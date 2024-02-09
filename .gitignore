@@ -1,0 +1,7 @@
+# dotnet
+.idea
+**/*.iml
+bin/
+obj/
+.vs/
+*.user
